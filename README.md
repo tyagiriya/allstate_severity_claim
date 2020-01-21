@@ -1,0 +1,1 @@
+# allstate_severity_claim
